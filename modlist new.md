@@ -14,7 +14,7 @@
 - [Badoptimization](<https://modrinth.com/mod/badoptimizations>)✦1.21.1
 
 ### Speed
-- ~~[Lazy DFU](<https://modrinth.com/mod/lazydfu>)~~✦1.20.6
+- [~~Lazy DFU~~](<https://modrinth.com/mod/lazydfu>)✦1.20.6
 - [Noisium](<https://modrinth.com/mod/noisium>)✦1.21.1
 - ~~[fast load](<https://modrinth.com/mod/fastload>)~~✦1.20.1   %%Bug: you get stuck for some time when joining world%%
 - [fast quit](<https://modrinth.com/mod/fastquit>)✦1.21.1
