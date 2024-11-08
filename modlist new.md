@@ -9,14 +9,14 @@
     - [Sodium extras](<https://modrinth.com/mod/sodium-extra>)✦1.21.3
     - [Indium](<https://modrinth.com/mod/indium>)✦1.21.1
 - [Lithium](<https://modrinth.com/mod/lithium>)✦1.21.1
-- ~~[Starlight](<https://modrinth.com/mod/starlight>)~~✦1.20.4 [ScalableLux](<https://modrinth.com/mod/scalablelux>) ✦1.21.1
+- [~~Starlight~~](<https://modrinth.com/mod/starlight>)✦1.20.4 [ScalableLux](<https://modrinth.com/mod/scalablelux>) ✦1.21.1
 - [Immediately fast](<https://modrinth.com/mod/immediatelyfast>)✦1.21.1
 - [Badoptimization](<https://modrinth.com/mod/badoptimizations>)✦1.21.1
 
 ### Speed
 - [~~Lazy DFU~~](<https://modrinth.com/mod/lazydfu>)✦1.20.6
 - [Noisium](<https://modrinth.com/mod/noisium>)✦1.21.1
-- ~~[fast load](<https://modrinth.com/mod/fastload>)~~✦1.20.1   %%Bug: you get stuck for some time when joining world%%
+- [~~fast load~~](<https://modrinth.com/mod/fastload>)✦1.20.1   %%Bug: you get stuck for some time when joining world%%
 - [fast quit](<https://modrinth.com/mod/fastquit>)✦1.21.1
 - [remove reloading screen](<https://modrinth.com/mod/rrls>)✦1.21.1
 
