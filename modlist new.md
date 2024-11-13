@@ -226,6 +226,7 @@
 
 ### Wild Foliage
 - [Os' Colorful Grasses](<https://modrinth.com/resourcepack/os-colorful-grasses>)✦Resource Pack
+- [Simple lower grass sides](<https://modrinth.com/resourcepack/simple-lower-grass-sides>)✦Resource Pack
 - [Simple grass flowers](<https://modrinth.com/resourcepack/simple-grass-flowers>)✦Resource Pack
 - [Better moss by zozo](<https://www.planetminecraft.com/texture-pack/better-moss/>)✦Resource Pack
 - Lotus flower✦
