@@ -1,5 +1,5 @@
 ## Fabric(0.16.4) 1.20.1
-**1 November 2024**
+**18 November 2024**
 **Credits: salmonsushi47**
 **Crossed mods are discontinued, replaced or can't be used anymore*
 
@@ -9,14 +9,14 @@
     - [Sodium extras](<https://modrinth.com/mod/sodium-extra>)✦1.21.3
     - [Indium](<https://modrinth.com/mod/indium>)✦1.21.1
 - [Lithium](<https://modrinth.com/mod/lithium>)✦1.21.1
-- [~~Starlight~~](<https://modrinth.com/mod/starlight>)✦1.20.4 [ScalableLux](<https://modrinth.com/mod/scalablelux>) ✦1.21.1
+- ~~[Starlight](<https://modrinth.com/mod/starlight>)~~✦1.20.4 ***then*** [ScalableLux](<https://modrinth.com/mod/scalablelux>) ✦1.21.1
 - [Immediately fast](<https://modrinth.com/mod/immediatelyfast>)✦1.21.1
 - [Badoptimization](<https://modrinth.com/mod/badoptimizations>)✦1.21.1
 
 ### Speed
-- [~~Lazy DFU~~](<https://modrinth.com/mod/lazydfu>)✦1.20.6
+- ~~[Lazy DFU](<https://modrinth.com/mod/lazydfu>)~~✦1.20.6
 - [Noisium](<https://modrinth.com/mod/noisium>)✦1.21.1
-- [~~fast load~~](<https://modrinth.com/mod/fastload>)✦1.20.1   %%Bug: you get stuck for some time when joining world%%
+- ~~[fast load](<https://modrinth.com/mod/fastload>)~~✦1.20.1   %%Bug: you get stuck for some time when joining world%%
 - [fast quit](<https://modrinth.com/mod/fastquit>)✦1.21.1
 - [remove reloading screen](<https://modrinth.com/mod/rrls>)✦1.21.1
 
@@ -126,7 +126,7 @@
 - [Blur+](<https://modrinth.com/mod/blur-plus>)✦1.21.1
 
 ### Enhancements
-- [Amecs](<https://modrinth.com/mod/amecs>)✦1.20.4            [Amecs fork](<https://github.com/wyatt-herkamp/too-many-shortcuts>)✦1.21.1
+- [Amecs](<https://modrinth.com/mod/amecs>)✦1.20.4            [Amecs fork](<https://github.com/wyatt-herkamp/too-many-shortcuts>)✦1.21.1 ***or*** [Too many Shortcuts](<https://modrinth.com/mod/too-many-shortcuts>)✦1.21.3
 - [Advancement search](<https://modrinth.com/mod/advancementssearch>)✦1.21.1
 - [Flash](<https://modrinth.com/mod/flash>)✦1.21
 - [FabricShot](<https://modrinth.com/mod/fabrishot>)✦1.21
@@ -266,6 +266,7 @@
 ### Player animations 
 - [Not enough animations](<https://modrinth.com/mod/not-enough-animations>)✦1.21.1
 - [What are they up to](<https://modrinth.com/mod/what-are-they-up-to>)✦1.21.1
+- [Vintage Animations](<https://modrinth.com/mod/vintage-animations>)✦1.20.1
 - [Emote craft](<https://modrinth.com/mod/emotecraft>)✦1.20.4
 - [Weavy capes](<https://modrinth.com/mod/wavey-capes>)✦1.21.1
 
@@ -426,6 +427,7 @@
 # Honourable Mentions
 ## Port these to Fabric Please
 - [Horrrs PvZ](<https://legacy.curseforge.com/minecraft/mc-mods/horrrs-pvz>)✦1.20.1
+- [FNAF: Management Wanted](<https://modrinth.com/mod/management-wanted>)✦1.20.4
 ## More content
 - [Armourers workshop](<https://modrinth.com/mod/armourers-workshop>)✦1.21.1
 - [Naturalist](<https://modrinth.com/mod/naturalist>)✦1.20.1
@@ -460,6 +462,7 @@
 - dont touch me
 - double doors
 - drip sounds
+- Elytra trial
 - efforless building (fabric)
 ## broken 
 - Animated effects
