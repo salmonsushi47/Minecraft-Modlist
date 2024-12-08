@@ -1,8 +1,13 @@
 ## Fabric(0.16.4) 1.20.1
-**18 November 2024**
+**08 December 2024**
 **Credits: salmonsushi47**
-**Crossed mods are discontinued, replaced or can't be used anymore*
 
+**Resource Packs and Data Packs are labeled.**
+**Mods have the latest mod version that they are available for next to them.**
+
+**Crossed mods with link to mod page are discontinued.**
+**Crossed mods with out link to mod page are replaced.**
+**If a game version is crossed it means mod isn't available for it**
 # Bug Fixes and Optifine Parity
 ### Performance 
 - [Sodium](<https://modrinth.com/mod/sodium>)✦1.21.3
@@ -66,7 +71,7 @@
 - [Apple Skin](<https://modrinth.com/mod/appleskin>)✦1.21.1
 - [Armor Chroma](<https://modrinth.com/mod/armor-chroma-for-fabric>)✦1.21.1
 - [Dynamic Crosshair](<https://modrinth.com/mod/dynamiccrosshair>)✦1.21.1
-- [~~Crosshair bobbing~~](<https://modrinth.com/mod/xbob>)✦1.20.2
+- ~~[Crosshair bobbing](<https://modrinth.com/mod/xbob>)~~✦1.20.2
 - [Traveler's titles](<https://modrinth.com/mod/travelers-titles>)✦1.21.1
 - [PaperDoll](<https://modrinth.com/mod/paperdoll>)✦1.21.1
 - [Stylish effects](<https://modrinth.com/mod/stylish-effects>)✦1.21.1
@@ -75,6 +80,7 @@
 - [Held Item Info](<https://modrinth.com/mod/held-item-info>)✦1.21.1
 - [Item Highlighter](<https://modrinth.com/mod/item-highlighter>)✦1.21
 - [Sprint Indicator](<https://modrinth.com/mod/sprint-indicator>)✦1.21
+- [Usage Ticker](<https://modrinth.com/mod/usage-ticker>)✦1.21.1
 - [Boat HUD (Extended)](<https://modrinth.com/mod/boat-hud-extended>)✦1.21
 - [Pickup Notifier](<https://modrinth.com/mod/pick-up-notifier>)✦1.21.1
 - [Leave my bars alone](<https://modrinth.com/mod/leave-my-bars-alone>)✦1.21.1
@@ -85,11 +91,12 @@
 - [Better Ping Display](<https://modrinth.com/mod/better-ping-display-fabric>)✦1.21.1
 - [Better stats](<https://modrinth.com/mod/better-stats>)✦1.21.1
 - [Sign Tools](<https://www.curseforge.com/minecraft/mc-mods/sign-tools>)✦1.21.1
+- [Scribble](<https://modrinth.com/mod/scribble>)✦1.21.4
 - [Better command block UI](<https://modrinth.com/mod/bettercommandblockui>)✦1.21.1
 - [NBT Autocomplete](<https://modrinth.com/mod/nbt-autocomplete>)✦1.21.1
 
 ### Chat
-- Chat+✦
+- [Chat+](<https://modrinth.com/resourcepack/chat+>)✦Resource Pack
 - [Chat heads](<https://modrinth.com/mod/chat-heads>)✦1.21.1
 - [Chat Image](<https://modrinth.com/mod/chatimage>)✦1.21
 - [more chat history](<https://modrinth.com/mod/morechathistory>)✦1.21.1
@@ -105,7 +112,7 @@
 
 ### New Interfaces 
 - [Screenshot viewer](<https://modrinth.com/mod/screenshot-viewer>)✦1.21.1
-- [RP renames](<https://modrinth.com/mod/rp-renames>)✦1.21.1
+- [RP renames](<https://modrinth.com/mod/rp-renames>)✦1.21.1 %%Compatibility Issue: doesn't work with Easy Anvils mod causes crash on using anvil%%
 - [Minemath](<https://modrinth.com/mod/minemath>)✦1.21.1
 - [playlist](<https://modrinth.com/mod/playlist>)✦1.20.1
 - [Craftify](<https://modrinth.com/mod/craftify>)✦1.21
@@ -114,15 +121,17 @@
 - [Clean Tooltips](<https://modrinth.com/mod/clean-tooltips>)✦1.21.1
 - [Enchantment description](<https://modrinth.com/mod/enchantment-descriptions>)✦1.21.1
 - [Legendary Tooltips](<https://modrinth.com/mod/legendary-tooltips>)✦1.21
+     - [Eclectic Trove](<https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips>)✦Resource Pack
 - [Armortip](<https://modrinth.com/mod/armortip>)✦1.21
 - [Equipment compare](<https://modrinth.com/mod/equipment-compare>)✦1.21
 - [item indicator](<https://modrinth.com/mod/itemindicator>)✦1.21.1 ~~1.20.1~~
+- [Bookshelf Inspector](<https://modrinth.com/mod/bookshelf-inspector>)✦1.21.4 ~~1.20.1~~
 ### Inventory 
 - [Unique Dark](<https://modrinth.com/resourcepack/unique-dark>)✦Resource Pack
 - [Animated inventory DvD logo](<https://www.curseforge.com/minecraft/texture-packs/animated-inventory-dvd-logo>)✦Resource Pack
 - [Item borders](<https://modrinth.com/mod/item-borders>)✦1.21
 - ~~Tiny item animations~~ [Immersive UI](<https://modrinth.com/mod/immersive-ui>)✦1.21    %%Bug: for older versions of mod edit config to hide selected hot bar slot to make item visible or remove the pixels from widget.png%%
-- [Smooth swapping](<https://modrinth.com/mod/smooth-swapping>)✦1.20.2 ***or*** [Bedrock Inventory Animations](<https://modrinth.com/mod/bia>)✦1.21.1 ***or*** [NeverEnoughAnimation](<https://modrinth.com/mod/neverenoughanimation>)✦1.21.1
+- [Smooth swapping](<https://modrinth.com/mod/smooth-swapping>)✦1.21.3 ***or*** [Bedrock Inventory Animations](<https://modrinth.com/mod/bia>)✦1.21.1 ***or*** [NeverEnoughAnimation](<https://modrinth.com/mod/neverenoughanimation>)✦1.21.1
 - [Blur+](<https://modrinth.com/mod/blur-plus>)✦1.21.1
 
 ### Enhancements
@@ -183,6 +192,12 @@
 - [Hopo's Ruined portals](<https://modrinth.com/datapack/hopo-better-ruined-portals>)✦1.21.3
 - [Hopo's Mine shafts](<https://modrinth.com/datapack/hopo-better-mineshaft>)✦1.21.3
 - [Hopo's Underwater ruins](<https://modrinth.com/datapack/hopo-better-underwater-ruins>)✦1.21.3
+- [Yung's Better dungeons ](<https://modrinth.com/mod/yungs-better-dungeons>)✦1.21.1
+- [Yung's Better nether fortresses ](<https://modrinth.com/mod/yungs-better-nether-fortresses>)✦1.21.1
+- [Yung's Better ocean monuments ](<https://modrinth.com/mod/yungs-better-ocean-monuments>)✦1.21.1
+- [Yung's Better strongholds ](<https://modrinth.com/mod/yungs-better-strongholds>)✦1.21.1
+- [Yung's Better jungle temples](<https://modrinth.com/mod/yungs-better-jungle-temples>)✦1.21.1
+- [Yung's Better witch huts](<https://modrinth.com/mod/yungs-better-witch-huts>)✦1.21.1
 - [New dessert temples Better Structures](<https://www.milesplayz.com/new-desert-temple/>)✦DataPack
 - [Dungeon and Taverns](<https://modrinth.com/datapack/dungeons-and-taverns>)✦1.21.3
 - [Moog's Voyager Structures](<https://modrinth.com/mod/moogs-voyager-structures>)✦1.21.1
@@ -229,16 +244,17 @@
 - [Simple lower grass sides](<https://modrinth.com/resourcepack/simple-lower-grass-sides>)✦Resource Pack
 - [Simple grass flowers](<https://modrinth.com/resourcepack/simple-grass-flowers>)✦Resource Pack
 - [Better moss by zozo](<https://www.planetminecraft.com/texture-pack/better-moss/>)✦Resource Pack
-- Lotus flower✦
+- Lotus flower✦Resource Pack
 - [Corality](<https://modrinth.com/resourcepack/corality>)✦Resource Pack
 - [Warped root 3D](<https://www.planetminecraft.com/texture-pack/warped-roots3d/>)✦Resource Pack
 - [zozo twisting vines](<https://www.planetminecraft.com/texture-pack/zozo-twisting-vines/>)✦Resource Pack
 - [Creeping Ivy](<https://www.planetminecraft.com/texture-pack/creeping-ivy/>)✦Resource Pack
+- [Blocky Saplings](<https://modrinth.com/resourcepack/blocky-saplings>)✦Resource Pack
 - [Remodeled Cactus](<https://www.planetminecraft.com/texture-pack/remodeled-cactus/>)✦Resource Pack
 - [Kubban's lush dessert](<https://www.planetminecraft.com/texture-pack/lush-desert/>)✦Resource Pack
 - [Kubban's flowers](<https://www.planetminecraft.com/texture-pack/kubban-s-flowers/>)✦Resource Pack
 - [Kubban's fungi!](<https://www.planetminecraft.com/texture-pack/fungi-5937265/>)✦Resource Pack
-- [Kubban's saplings](<https://www.planetminecraft.com/texture-pack/kubban-s-saplings/>)✦Resource Pack  %%Older version is recommended with new additions in newer version%%
+- [Kubban's saplings](<https://www.planetminecraft.com/texture-pack/kubban-s-saplings/>)✦Resource Pack  %%Older version is recommended as for the missing potted saplings use the once from newer version%%
 - [Tree seeds](<https://www.planetminecraft.com/texture-pack/tree-seeds/>)✦Resource Pack
 - [Lush Icons](<https://www.planetminecraft.com/texture-pack/lush-icons/>)✦Resource Pack
 
@@ -299,7 +315,7 @@
 - [Better clouds](<https://modrinth.com/mod/better-clouds>)✦1.21.1
 - [Better world border](<https://www.planetminecraft.com/texture-pack/better-world-border/>)✦Resource Pack
 - [Better end sky](<https://modrinth.com/mod/better-end-sky>)✦1.20.4
-- [Boime fog](<https://modrinth.com/mod/biomefog>)✦1.20.6        %%Bug: harsh gradients%%
+- [Boime fog](<https://modrinth.com/mod/biomefog>)✦1.20.6        %%Bug: harsh gradients when using custom world generation%%
 - [Fluid void fading](<https://modrinth.com/mod/fluidvoidfading>)✦1.21.1
 - [Spyglass astronomy](<https://modrinth.com/mod/spyglass-astronomy>)✦1.21.1 ***or*** [Astrocraft](<https://modrinth.com/mod/astrocraft>)✦1.21.1
 
@@ -313,8 +329,8 @@
 - [Ivango's Aesthatic shells](<https://www.planetminecraft.com/texture-pack/aesthetic-shell/>)✦Resource Pack
 - [Ivango's Bundled](<https://www.planetminecraft.com/texture-pack/bundled-5660094/>)✦Resource Pack
 - [Ivango's Milky way](<https://www.planetminecraft.com/texture-pack/milky-way-5802369/>)✦Resource Pack
-- Ivango's Choco         %%Doesn't work properly%%
-- Ivango's Bake-Add         %%Doesn't work properly%%
+- Ivango's Choco✦Resource Pack         %%Doesn't work properly%%
+- Ivango's Bake-Add✦Resource Pack         %%Doesn't work properly%%
 - [Totem of Fumo Fan made expansion](<https://www.planetminecraft.com/texture-pack/totem-of-fumo-a-fan-made-expansion/>)✦Resource Pack
 - [50+ Hermit plushies](<https://www.planetminecraft.com/texture-pack/50-hermit-plushies/>)✦Resource Pack
 - [Somie's variable hats](<https://www.planetminecraft.com/texture-pack/somie-s-variable-hats/>)✦Resource Pack
@@ -343,6 +359,7 @@
 - [better waxed copper](<https://www.planetminecraft.com/texture-pack/better-waxed-copper/>)✦Resource Pack
 
 ### Mobs
+- [Colorful sheared sheep x FA](<https://modrinth.com/resourcepack/colorful-sheared-sheep>)
 - [Meow Society x FA](<https://www.curseforge.com/minecraft/texture-packs/meow-society-x-fresh-animations>)✦Resource Pack
 - [Party pups x FA](<https://www.curseforge.com/minecraft/texture-packs/party-pups-x-fresh-animations>)✦Resource Pack
 - [Pesky parrots x FA](<https://www.curseforge.com/minecraft/texture-packs/pesky-parrots-x-fresh-animations>)✦Resource Pack
@@ -428,8 +445,10 @@
 ## Port these to Fabric Please
 - [Horrrs PvZ](<https://legacy.curseforge.com/minecraft/mc-mods/horrrs-pvz>)✦1.20.1
 - [FNAF: Management Wanted](<https://modrinth.com/mod/management-wanted>)✦1.20.4
+- [Wither spawn animation](<https://modrinth.com/mod/wither-spawn-animation>)✦1.21.1
 ## More content
 - [Armourers workshop](<https://modrinth.com/mod/armourers-workshop>)✦1.21.1
+- [Fowl Play](<https://modrinth.com/mod/fowlplay>)✦1.21.1
 - [Naturalist](<https://modrinth.com/mod/naturalist>)✦1.20.1
 - [Hand Crafted](<https://modrinth.com/mod/handcrafted>)✦1.21.1
 - [Immersive Melodies](<https://modrinth.com/mod/immersive-melodies>)✦1.20.1
@@ -443,7 +462,7 @@
 - [Immersive portals](<https://modrinth.com/mod/immersiveportals>)✦1.21.1
 - [Physics mod](<https://modrinth.com/mod/physicsmod>)✦1.21.3
 - [Replay mod](<https://modrinth.com/mod/replaymod>)✦1.21.1
-- [Dropz](<https://modrinth.com/mod/dropz>)✦  %%Not Maintained and Buggy%%
+- [Dropz](<https://modrinth.com/mod/dropz>)✦  %%Not Maintained and Buggy 1.19.4 was the last version in which it worked properly%%
 - [Upgraded mobs](<https://modrinth.com/datapack/upgraded-mobs>)✦1.21.1
 ---
 # stuff
@@ -452,6 +471,7 @@
 - Key bind galore
 - Emogg
 - Ambiance!
+- Reacharound
 - Unstructured
 - Luki's grand capitals
 - Gravestone dungeons
