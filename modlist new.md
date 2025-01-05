@@ -1,5 +1,5 @@
 ## Fabric(0.16.4) 1.20.1
-**31 December 2024**
+**5 January 2024**
 **Credits: salmonsushi47**
 
 **Resource Packs and Data Packs are labeled.**
@@ -178,6 +178,7 @@
 - [Item swapper](<https://modrinth.com/plugin/itemswapper>)✦1.21.1
 - ~~Inventory Hot swap~~ [Hot bar Cycle](<https://modrinth.com/mod/hotbarcycle>)✦1.21
 - [Carry on](<https://modrinth.com/mod/carry-on>)✦1.21.1
+- [Easy shulker boxes](<https://modrinth.com/mod/easy-shulker-boxes>)✦1.21.3
 
 # World Generation
 ### Terrain Generation
@@ -447,6 +448,7 @@
 ## Port these to Fabric Please
 - [Horrrs PvZ](<https://legacy.curseforge.com/minecraft/mc-mods/horrrs-pvz>)✦1.20.1
 - [FNAF: Management Wanted](<https://modrinth.com/mod/management-wanted>)✦1.20.4
+- [Fallen Adventurers](<https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers>)✦1.20.1
 - [Wither spawn animation](<https://modrinth.com/mod/wither-spawn-animation>)✦1.21.1
 ## More content
 - [Armourers workshop](<https://modrinth.com/mod/armourers-workshop>)✦1.21.1
@@ -457,6 +459,7 @@
 - [Simple Animated Guns Fabric](<https://www.curseforge.com/minecraft/mc-mods/fabric-simple-animated-guns>)✦1.20.1
 - [Vic's Point Blank](<https://modrinth.com/mod/vics-point-blank>)✦1.21.1
 - [Splinecart](<https://modrinth.com/mod/splinecart>)✦1.21
+- [Create](<https://modrinth.com/mod/create-fabric>)✦1.20.1
 - [TFC Tumbleweed](https://modrinth.com/mod/tfc-tumbleweed)✦1.20.1
 - [Enhanced Movement Fabric](<https://www.curseforge.com/minecraft/mc-mods/enhanced-movement-fabric>)✦1.20.1
 ## Big Features
