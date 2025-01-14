@@ -1,5 +1,5 @@
 ## Fabric(0.16.4) 1.20.1
-**5 January 2024**
+**6 January 2024**
 **Credits: salmonsushi47**
 
 **Resource Packs and Data Packs are labeled.**
@@ -81,6 +81,7 @@
 - [Item Highlighter](<https://modrinth.com/mod/item-highlighter>)✦1.21
 - [Sprint Indicator](<https://modrinth.com/mod/sprint-indicator>)✦1.21
 - [Usage Ticker](<https://modrinth.com/mod/usage-ticker>)✦1.21.1
+- [Till it breaks updated](<https://modrinth.com/mod/till-it-breaks-updated>)✦1.21.4
 - [Boat HUD (Extended)](<https://modrinth.com/mod/boat-hud-extended>)✦1.21
 - [Pickup Notifier](<https://modrinth.com/mod/pick-up-notifier>)✦1.21.1
 - [Leave my bars alone](<https://modrinth.com/mod/leave-my-bars-alone>)✦1.21.1
@@ -119,6 +120,7 @@
 
 ### Tooltips
 - [Clean Tooltips](<https://modrinth.com/mod/clean-tooltips>)✦1.21.1
+- [Enhanced tooltips](<https://legacy.curseforge.com/minecraft/mc-mods/enhancedtooltips>)✦1.21.4
 - [Enchantment description](<https://modrinth.com/mod/enchantment-descriptions>)✦1.21.1
 - [Legendary Tooltips](<https://modrinth.com/mod/legendary-tooltips>)✦1.21
      - [Eclectic Trove](<https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips>)✦Resource Pack
@@ -183,6 +185,7 @@
 # World Generation
 ### Terrain Generation
 - [William Wythers Expanded Ecosphere](<https://modrinth.com/mod/expanded-ecosphere>)✦1.21.1
+- [Lithosphere](<https://modrinth.com/datapack/lithosphere>)✦1.21.1
 - [Amplified Nether](<https://modrinth.com/datapack/amplified-nether>)✦1.21.1
 
 ### Structures
@@ -221,6 +224,7 @@
 - [More banner features](<https://modrinth.com/mod/more-banner-features>)✦1.20.1
 - [Items Displayed](<https://modrinth.com/mod/items-displayed>)✦1.21.1
 - [Block Runner](<https://modrinth.com/mod/block-runner>)✦1.21.1
+- [Pick Up TNT](<https://modrinth.com/mod/pick-up-tnt>)✦1.21.4
 - [Universal bone meal](<https://modrinth.com/mod/universal-bone-meal>)✦1.21.1
 - [Harvest with ease](<https://modrinth.com/mod/harvest-with-ease>)✦1.21.1
 - [Toggle Item Frames](<https://modrinth.com/mod/toggle-item-frames>)✦1.21.2
@@ -290,7 +294,7 @@
 
 ### Other Animations
 - [Fresh Animations](<https://modrinth.com/resourcepack/fresh-animations>)✦Resource Pack
-- [Eating Animations](<https://modrinth.com/mod/eating-animation>)✦1.21
+- [Eating Animations](<https://modrinth.com/mod/eating-animation>)✦1.21 ***or*** [Tasty Items](<https://modrinth.com/resourcepack/tasty-items>)✦Resource Pack
 - [Animated items](<https://modrinth.com/resourcepack/animateditems>)✦Resource Pack
 	 - [Animated Ore](<https://modrinth.com/resourcepack/animated-ore>)✦Resource Pack
 - [Animated infested blocks](<https://www.planetminecraft.com/texture-pack/animated-infested-blocks/>)✦Resource Pack
@@ -430,6 +434,8 @@
 - [Bliss](<https://modrinth.com/shader/bliss-shader>)✦Shaders
 - [sildur's vibrant](<>) ✦Shaders
 - [Embrace pixels](<https://modrinth.com/resourcepack/embrace-pixels>)✦Resource Pack
+- [Bloop](<https://modrinth.com/shader/bloop-shaders>)✦Shaders
+- [Hysteia](<https://modrinth.com/shader/hysteria-shaders>)✦Shaders
 
 # For Server
 - [Open parties and claims](<https://modrinth.com/mod/open-parties-and-claims>)✦1.21.1
@@ -449,6 +455,7 @@
 - [Horrrs PvZ](<https://legacy.curseforge.com/minecraft/mc-mods/horrrs-pvz>)✦1.20.1
 - [FNAF: Management Wanted](<https://modrinth.com/mod/management-wanted>)✦1.20.4
 - [Fallen Adventurers](<https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers>)✦1.20.1
+- [Rainbows](<https://modrinth.com/mod/rainboows>)✦1.21.3
 - [Wither spawn animation](<https://modrinth.com/mod/wither-spawn-animation>)✦1.21.1
 ## More content
 - [Armourers workshop](<https://modrinth.com/mod/armourers-workshop>)✦1.21.1
@@ -459,6 +466,7 @@
 - [Simple Animated Guns Fabric](<https://www.curseforge.com/minecraft/mc-mods/fabric-simple-animated-guns>)✦1.20.1
 - [Vic's Point Blank](<https://modrinth.com/mod/vics-point-blank>)✦1.21.1
 - [Splinecart](<https://modrinth.com/mod/splinecart>)✦1.21
+- [Can you survive](<https://legacy.curseforge.com/minecraft/mc-mods/can-you-survive>)✦1.21.1
 - [Create](<https://modrinth.com/mod/create-fabric>)✦1.20.1
 - [TFC Tumbleweed](https://modrinth.com/mod/tfc-tumbleweed)✦1.20.1
 - [Enhanced Movement Fabric](<https://www.curseforge.com/minecraft/mc-mods/enhanced-movement-fabric>)✦1.20.1
@@ -467,6 +475,7 @@
 - [Immersive portals](<https://modrinth.com/mod/immersiveportals>)✦1.21.1
 - [Physics mod pro](<https://www.patreon.com/Haubna>)✦1.21.3
 - [Replay mod](<https://modrinth.com/mod/replaymod>)✦1.21.1
+- [Axiom](<https://modrinth.com/mod/axiom>)✦1.21.4
 - [Dropz](<https://modrinth.com/mod/dropz>)✦  %%Not Maintained and Buggy 1.19.4 was the last version in which it worked properly%%
 - [Upgraded mobs](<https://modrinth.com/datapack/upgraded-mobs>)✦1.21.1
 ---
