@@ -6,8 +6,11 @@
 **Mods have the latest mod version that they are available for next to them.**
 
 **Crossed mods with link to mod page are discontinued.**
+
 **Crossed mods with out link to mod page are replaced.**
+
 **If a game version is crossed it means mod isn't available for it**
+
 **If a game version has link it means mod is available for it but you have to get it from the link**
 
 # Bug Fixes and Optifine Parity
