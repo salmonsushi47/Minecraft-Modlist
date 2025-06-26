@@ -1,5 +1,5 @@
 ## Fabric(0.16.4) 1.20.1
-**Feb 1st 2024**
+**June 26th 2025**
 **Credits: salmonsushi47**
 
 **Resource Packs and Data Packs are labeled.**
@@ -73,6 +73,7 @@
 ### Game Hud
 - [Better icons by bogdonov](<https://www.planetminecraft.com/texture-pack/better-icons-by-bogdanov/>)✦Resource Pack
 - [Auto HUD](<https://modrinth.com/mod/autohud>)✦1.21.4
+- [Crumbling Hearts](<https://modrinth.com/mod/crumbling-hearts>)✦1.21.1
 - [Apple Skin](<https://modrinth.com/mod/appleskin>)✦1.21.4
 - [Armor Chroma](<https://modrinth.com/mod/armor-chroma-for-fabric>)✦1.21.4
 - [Dynamic Crosshair](<https://modrinth.com/mod/dynamiccrosshair>)✦1.21.4
@@ -100,6 +101,7 @@
 - [Scribble](<https://modrinth.com/mod/scribble>)✦1.21.4
 - [Better command block UI](<https://modrinth.com/mod/bettercommandblockui>)✦1.21.4
 - [NBT Autocomplete](<https://modrinth.com/mod/nbt-autocomplete>)✦1.21.4
+- [Animated Loading Screen](<https://modrinth.com/mod/animated-loading-screen>)✦1.21.5
 
 ### Chat
 - [Chat+](<https://modrinth.com/resourcepack/chat+>)✦Resource Pack
@@ -113,7 +115,7 @@
 
 ### World Interfaces 
 - [Mob plaques](<https://modrinth.com/mod/mob-plaques>)✦1.21.3
-- [Talk Bubbles](<https://modrinth.com/mod/talkbubbles>)✦1.21.1
+- [Talk Bubbles](<https://modrinth.com/mod/talkbubbles>)✦1.21.1 ***or*** [Talk Balloons](<https://modrinth.com/mod/talk-balloons>)✦1.21.5
 - [TNT timer](<https://modrinth.com/datapack/tnt-timer>)✦1.21.4
 
 ### New Interfaces 
@@ -135,12 +137,13 @@
 - [item indicator](<https://modrinth.com/mod/itemindicator>)✦1.21.1 ~~1.20.1~~
 - [Bookshelf Inspector](<https://modrinth.com/mod/bookshelf-inspector>)✦1.21.4 ~~1.20.1~~
 - [Pin tooltips](<https://modrinth.com/mod/pin-tooltips/>)✦1.20.1
-### Inventory 
+### Inventory Animations and Details
 - [Unique Dark](<https://modrinth.com/resourcepack/unique-dark>)✦Resource Pack
 - [Animated inventory DvD logo](<https://www.curseforge.com/minecraft/texture-packs/animated-inventory-dvd-logo>)✦Resource Pack
 - [Item borders](<https://modrinth.com/mod/item-borders>)✦1.21.3
 - ~~Tiny item animations~~ [Immersive UI](<https://modrinth.com/mod/immersive-ui>)✦1.21.4    %%Bug: for older versions of mod edit config to hide selected hot bar slot to make item visible or remove the pixels from widget.png%%
 - [Smooth swapping](<https://modrinth.com/mod/smooth-swapping>)✦1.21.3 ***or*** [Bedrock Inventory Animations](<https://modrinth.com/mod/bia>)✦1.21.1 ***or*** [NeverEnoughAnimation](<https://modrinth.com/mod/neverenoughanimation>)✦1.21.1
+- [Item Interactions](<https://modrinth.com/mod/item-interactions-mod>)✦1.21.6
 - [Blur+](<https://modrinth.com/mod/blur-plus>)✦1.21.4   %%Blur is a Vanilla Feature Now%%
 
 ### Enhancements
@@ -212,6 +215,7 @@
 - [Yung's Better jungle temples](<https://modrinth.com/mod/yungs-better-jungle-temples>)✦1.21.1
 - [Yung's Better witch huts](<https://modrinth.com/mod/yungs-better-witch-huts>)✦1.21.1
 - [New dessert temples Better Structures](<https://www.milesplayz.com/new-desert-temple/>)✦DataPack
+- [Trek](<https://modrinth.com/datapack/trek>)✦DataPack
 - [Dungeon and Taverns](<https://modrinth.com/datapack/dungeons-and-taverns>)✦1.21.4
 - [Moog's Voyager Structures](<https://modrinth.com/mod/moogs-voyager-structures>)✦1.21.4
 - [Moog's End Structures](<https://modrinth.com/mod/mes-moogs-end-structures>)✦1.21.4
@@ -264,6 +268,8 @@
 - [zozo twisting vines](<https://www.planetminecraft.com/texture-pack/zozo-twisting-vines/>)✦Resource Pack
 - [Creeping Ivy](<https://www.planetminecraft.com/texture-pack/creeping-ivy/>)✦Resource Pack
 - [Blocky Saplings](<https://modrinth.com/resourcepack/blocky-saplings>)✦Resource Pack
+- [dronko's alternative Bushy Leaves](<https://modrinth.com/resourcepack/better-busy-leaves>)✦Resource Pack ***or*** [Cubic Leaves](<https://modrinth.com/resourcepack/cubic-leaves>)✦Resource Pack
+- [Bushy Leaf Litter](<https://modrinth.com/resourcepack/bushy-leaf-litter>)✦Resource Pack
 - [Remodeled Cactus](<https://www.planetminecraft.com/texture-pack/remodeled-cactus/>)✦Resource Pack
 - [Kubban's lush dessert](<https://www.planetminecraft.com/texture-pack/lush-desert/>)✦Resource Pack
 - [Kubban's flowers](<https://www.planetminecraft.com/texture-pack/kubban-s-flowers/>)✦Resource Pack
@@ -277,9 +283,13 @@
 - [Subtle effects](<https://modrinth.com/mod/subtle-effects>)✦1.21.4
 - [Smooth particles](<https://modrinth.com/mod/smooth-particles>)✦1.21
 - [Texturized particles](<https://modrinth.com/mod/texturized-particles>)✦1.21.3
+- [Particle Interactions](<https://modrinth.com/mod/particle-interactions>)✦1.21.6
 - [Boime particle weather](<https://modrinth.com/mod/biome_particle_weather>)✦1.21.4
+- [Immersive Winds](<https://modrinth.com/mod/immersive-winds>)✦1.21.5
+- [Angel's Weather](<https://modrinth.com/resourcepack/angels-weather>)✦Resource Pack
 - [Particle Rain](<https://modrinth.com/mod/particle-rain>)✦1.21.4    %%note: Customize to your likings%%
 - [Visuality](<https://modrinth.com/mod/visuality>)✦1.21.4
+- [Cozy Critters](<https://www.curseforge.com/minecraft/mc-mods/cosy-critters>)✦1.21.5
 - [Cave dust](<https://modrinth.com/mod/cave-dust>)✦1.21.4
 - [Falling leaves](<https://modrinth.com/mod/fallingleaves>)✦1.21.4
 - [Particle moths](<https://modrinth.com/mod/particle-moths>)✦1.21.4
@@ -287,7 +297,7 @@
 - [Make bubbles pop](<https://modrinth.com/mod/make_bubbles_pop>)✦1.21.4
 - [Damage Numbers](<https://modrinth.com/mod/damagenumbers>)✦1.21.1
 - [Explosive Enhancement](<https://modrinth.com/mod/explosive-enhancement>)✦1.21.4
-- [Better explosion particles](<https://www.planetminecraft.com/texture-pack/better-explosion-particle/>)✦Resource Pack
+- [Better explosion particles](<https://www.planetminecraft.com/texture-pack/better-explosion-particle/>)✦Resource Pack ***or*** [Fire Rekindled](<https://modrinth.com/resourcepack/fire-rekindled/gallery>)✦Resource Pack
 - [Better shrieking](<https://www.planetminecraft.com/texture-pack/better-shrieking/>)✦Resource Pack
 - [Star XP](<https://www.planetminecraft.com/texture-pack/star-xp/>)✦Resource Pack ***or*** [Amongus Expeience Orbs](<https://www.planetminecraft.com/texture-pack/amongus-experience-orbs/>)✦Resource Pack
 - [Particles Remastered!](<https://modrinth.com/resourcepack/particles-remastered!>)✦Resource Pack
@@ -296,6 +306,7 @@
 
 # Animations
 ### Player animations 
+- [Hold my Items](<https://modrinth.com/mod/hold-my-items>)✦1.21.5
 - [Not enough animations](<https://modrinth.com/mod/not-enough-animations>)✦1.21.4
 - [What are they up to](<https://modrinth.com/mod/what-are-they-up-to>)✦1.21.1
 - [Vintage Animations](<https://modrinth.com/mod/vintage-animations>)✦1.20.1
@@ -304,11 +315,13 @@
 
 ### Other Animations
 - [Fresh Animations](<https://modrinth.com/resourcepack/fresh-animations>)✦Resource Pack
-- [Eating Animations](<https://modrinth.com/mod/eating-animation>)✦1.21 ***or*** [Tasty Items](<https://modrinth.com/resourcepack/tasty-items>)✦Resource Pack
+	- [Fresh Fix](<https://modrinth.com/resourcepack/freshfix>)✦Resource Pack
+- ~~[Eating Animations](<https://modrinth.com/mod/eating-animation>)~~✦1.21 ***then***  [Theones Eating Animation Pack](<https://modrinth.com/resourcepack/theones-eating-animation-pack>)✦Resource Pack ***or*** [Tasty Items](<https://modrinth.com/resourcepack/tasty-items>)✦Resource Pack
 - [Animated items](<https://modrinth.com/resourcepack/animateditems>)✦Resource Pack
 	 - [Animated Ore](<https://modrinth.com/resourcepack/animated-ore>)✦Resource Pack
 - [Animated infested blocks](<https://www.planetminecraft.com/texture-pack/animated-infested-blocks/>)✦Resource Pack
 - [XXVI's Animated sculk jaw](<https://www.planetminecraft.com/texture-pack/xxvi-s-sculk-jaw/>)✦Resource Pack
+- [3D Animated doors](<https://modrinth.com/resourcepack/3d-animated-doors>)✦Resource Pack
 - [A good place](<https://modrinth.com/mod/a-good-place>)✦1.21.4
 - [Clear despawn](<https://modrinth.com/mod/cleardespawn>)✦1.20.2 [1.21.4](<https://modrinth.com/mod/clear-despawn-reworked>)
 - [Chunks fade in](<https://modrinth.com/mod/chunks-fade-in>)✦1.21.4
@@ -318,8 +331,10 @@
 - [Skin Layer 3D](<https://modrinth.com/mod/3dskinlayers>)✦1.21.4
 - [First person model mod](<https://modrinth.com/mod/first-person-model>)✦1.21.4
 - [YDM's weapons master](<https://modrinth.com/mod/weaponmaster>)✦1.21.4
+- [Elytra Contrails](<https://legacy.curseforge.com/minecraft/texture-packs/elytra-contrails>)✦Resource Pack
 - [Wakes](<https://modrinth.com/mod/wakes>)✦1.21.1 ***or*** [Satin Free Wakes](<https://modrinth.com/mod/satin-free-wakes>)✦1.21.4
 - [3D Breaking](https://www.planetminecraft.com/texture-pack/3d-breaking/)✦Resource Pack
+- [Transparent Entities](<https://modrinth.com/mod/transparent-entities>)✦1.21.5
 - [Locked hoppers](<https://www.planetminecraft.com/texture-pack/xxvi-s-locked-hoppers/>)✦Resource Pack
 - [Dropped Item Tweaks](<https://modrinth.com/mod/droppeditemtweaks>)✦1.21.4
 - [Shiny armor trims by XXVI](<https://www.planetminecraft.com/texture-pack/xxvi-s-shiny-armor-trims/>)✦Resource Pack
@@ -331,6 +346,7 @@
 - [Better clouds](<https://modrinth.com/mod/better-clouds>)✦1.21.4
 - [Better world border](<https://www.planetminecraft.com/texture-pack/better-world-border/>)✦Resource Pack
 - [Better end sky](<https://modrinth.com/mod/better-end-sky>)✦1.20.4
+- [Private's Skies](<https://modrinth.com/resourcepack/privates-skies>)✦Resource Pack
 - [Boime fog](<https://modrinth.com/mod/biomefog>)✦1.20.6        %%Bug: harsh gradients when using custom world generation%%
 - [Fluid void fading](<https://modrinth.com/mod/fluidvoidfading>)✦1.21.4
 - [Spyglass astronomy](<https://modrinth.com/mod/spyglass-astronomy>)✦1.21.4 ***or*** [Astrocraft](<https://modrinth.com/mod/astrocraft>)✦1.21.1
@@ -371,7 +387,7 @@
 - [Visual goat horns](<https://www.planetminecraft.com/texture-pack/visual-goat-horns-optifine/>)✦Resource Pack
 - [Visual Armor Trims](<https://modrinth.com/resourcepack/visual-armor-trims>)Resource Pack
 - [Stylized potions](<https://www.planetminecraft.com/texture-pack/stylized-potions-optifine/>)✦Resource Pack
-- [Nan2uu's Visual spawn Egg](<https://www.planetminecraft.com/texture-pack/nan2uu-visual-spawn-egg-v1-0/>)✦Resource Pack
+- [Spawned Eggs](<https://modrinth.com/resourcepack/spawned-eggs>)✦Resource Pack ***or*** [Nan2uu's Visual spawn Egg](<https://www.planetminecraft.com/texture-pack/nan2uu-visual-spawn-egg-v1-0/>)✦Resource Pack
 - [better waxed copper](<https://www.planetminecraft.com/texture-pack/better-waxed-copper/>)✦Resource Pack
 
 ### Mobs
@@ -406,6 +422,7 @@
 
 # Model Tweaks
 - [Armor stand Reimagined](<https://www.planetminecraft.com/texture-pack/armorstands-reimagined/>)✦Resource Pack
+- [Lively Turtle Helmet](<https://modrinth.com/resourcepack/lively-turtle-helmet>)✦Resource Pack
 - [Candles Overhaul](<https://www.planetminecraft.com/texture-pack/candles-overhaul/>)✦Resource Pack
 - [Improved pot](<https://www.planetminecraft.com/texture-pack/improved-flower-pot/>)✦Resource Pack
 - [Reviksedy's amythst](<https://www.planetminecraft.com/texture-pack/reviksedy-s-amethyst/>)✦Resource Pack
@@ -461,12 +478,12 @@
 - [Davinci's elytra](<https://www.planetminecraft.com/texture-pack/da-vinci-s-elytra/>)✦Resource Pack
 - [American fighter biplane elytra](<https://www.planetminecraft.com/texture-pack/american-fighter-biplane-elytra/>)✦Resource Pack
 - [German fighter biplane elytra](<https://www.planetminecraft.com/texture-pack/german-fighter-biplane-elytra/>)✦Resource Pack
-- [Elytra trails](<https://www.planetminecraft.com/data-pack/elytra-trails/>)✦Data Pack
 
 # Honourable Mentions
 ## Port these to Fabric Please
 - [Horrrs PvZ](<https://legacy.curseforge.com/minecraft/mc-mods/horrrs-pvz>)✦1.20.1
 - [FNAF: Management Wanted](<https://modrinth.com/mod/management-wanted>)✦1.20.4
+- [Immortal Ginigerbread](<https://www.curseforge.com/minecraft/mc-mods/immortal-gingerbread>)✦1.20.1
 - [Fallen Adventurers](<https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers>)✦1.20.1
 - [Costal waves](<https://modrinth.com/mod/coastal-waves>)✦1.21.1
 - [Rainbows](<https://modrinth.com/mod/rainboows>)✦1.21.3
@@ -505,16 +522,20 @@
 - Luki's grand capitals
 - Gravestone dungeons
 - drip sounds
+- [Waxed Icons](<https://modrinth.com/mod/waxed-icons>)
+- [Elytra trails](<https://www.planetminecraft.com/data-pack/elytra-trails/>)
+- [Reanimated Blue](<https://modrinth.com/resourcepack/reanimated-blue>)
 ## other
 - borderless mining
 - bounced
 - constant music
 - dont touch me
 - double doors
-- Elytra trial
 - efforless building (fabric)
 - [PatPat](<https://modrinth.com/plugin/patpat>)
 - [Fast move](<https://modrinth.com/mod/fastmove>)
+- [Forgiving Void](<https://modrinth.com/mod/forgiving-void>)
+- [Visible Traders](<https://modrinth.com/mod/visible-traders>)
 ## broken 
 - Animated effects
 - Particle fade
