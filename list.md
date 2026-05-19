@@ -3,7 +3,7 @@
 **Credits: salmonsushi47**
 This List is available [Here](<https://github.com/salmonsushi47/Minecraft-Modlist>)
 **Resource Packs Shader Packs and Data Packs are labeled**
-**Mods have the latest mod version that they are available for next to them**
+**Mods have the latest game version that they are available for next to them**
 
 **~~[Crossed mods with link to mod page](<https://example.com/>)~~ means Discontinued.**
 
