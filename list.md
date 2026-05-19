@@ -575,7 +575,7 @@ Use **Kilt**
 - [Forgiving Void](<https://modrinth.com/mod/forgiving-void>)
 - [dont touch me](<https://www.curseforge.com/minecraft/mc-mods/dont-touch-me>)
 - [Projectile Trajectory Preview](<https://modrinth.com/mod/ptp>)
-- [Auto Switch Elytra]([)](<https://modrinth.com/mod/autoswitchelytra>)
+- [Auto Switch Elytra](<https://modrinth.com/mod/autoswitchelytra>)
 ## mod cemetery
 - [MmmMmmMmmMmm](<https://modrinth.com/mod/mmmmmmmmmmmm>)
 - [Armourers workshop](<https://modrinth.com/mod/armourers-workshop>)
