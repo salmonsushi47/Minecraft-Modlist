@@ -436,7 +436,7 @@ This List is available [Here](<https://github.com/salmonsushi47/Minecraft-Modlis
 - [Porkier pigs x FA](<https://www.curseforge.com/minecraft/texture-packs/porkier-pigs-x-fresh-animations>)✦Resource Pack
 - [Better zombies x FA](<https://www.curseforge.com/minecraft/texture-packs/better-zombies-x-fresh-animations>)✦Resource Pack
 - [Better skeletons x FA](<https://www.curseforge.com/minecraft/texture-packs/better-skeletons-x-fresh-animations>)✦Resource Pack
-- [Collective creepers x FA](<https://www.curseforge.com/minecraft/texture-packs/cluckier-chickens-x-fresh-animations>)✦Resource Pack
+- [Collective creepers x FA](<https://www.curseforge.com/minecraft/texture-packs/collective-creepers-x-fresh-animations>)✦Resource Pack
 - [Better enderman x FA](<https://www.curseforge.com/minecraft/texture-packs/better-endermen-x-fresh-animations>)✦Resource Pack
 - [Porkier piglins x FA](<https://www.curseforge.com/minecraft/texture-packs/porkier-piglins-x-fresh-animations>)✦Resource Pack
 - [Better illagers x FA](<https://www.curseforge.com/minecraft/texture-packs/better-illagers-x-fresh-animations>)✦Resource Pack
