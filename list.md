@@ -429,7 +429,6 @@ This List is available [Here](<https://github.com/salmonsushi47/Minecraft-Modlis
 - [better waxed copper](<https://www.planetminecraft.com/texture-pack/better-waxed-copper/>)✦Resource Pack
 
 ### Mobs
-- [Colorful sheared sheep x FA](<https://modrinth.com/resourcepack/colorful-sheared-sheep>)✦Resource Pack
 - [Pesky parrots x FA](<https://www.curseforge.com/minecraft/texture-packs/pesky-parrots-x-fresh-animations>)✦✓Resource Pack
 - [Meow Society x FA](<https://www.curseforge.com/minecraft/texture-packs/meow-society-x-fresh-animations>)✦✓Resource Pack
 - [Party pups x FA](<https://www.curseforge.com/minecraft/texture-packs/party-pups-x-fresh-animations>)✦Resource Pack
@@ -469,7 +468,7 @@ This List is available [Here](<https://github.com/salmonsushi47/Minecraft-Modlis
     - [Visual Shulker Labels - 2D Display Addon](<https://www.planetminecraft.com/texture-pack/visual-shulker-labels-2d-display-addon/>)
 ## Elytra Vanity
 - [American fighter biplane elytra](<https://www.planetminecraft.com/texture-pack/american-fighter-biplane-elytra/>)✦Resource Pack
-- [German fighter biplane elytra](<https://www.planetminecraft.com/texture-pack/german-fighter-biplane-elytra/>)✦✓Resource Pack
+- [German fighter biplane elytra](<https://www.planetminecraft.com/texture-pack/german-fighter-biplane-elytra/>)✦Resource Pack
 - [Steampunk elytra](<https://www.planetminecraft.com/texture-pack/steampunk-elytra-5281997/>)✦Resource Pack
 - [Davinci's elytra](<https://www.planetminecraft.com/texture-pack/da-vinci-s-elytra/>)✦Resource Pack
 - [Tworrezx Vex elytra](<https://www.planetminecraft.com/texture-pack/torrezx-vex-elytra/>)✦Resource Pack
