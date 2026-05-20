@@ -430,24 +430,24 @@ This List is available [Here](<https://github.com/salmonsushi47/Minecraft-Modlis
 
 ### Mobs
 - [Colorful sheared sheep x FA](<https://modrinth.com/resourcepack/colorful-sheared-sheep>)✦Resource Pack
-- [Pesky parrots x FA](<https://www.curseforge.com/minecraft/texture-packs/pesky-parrots-x-fresh-animations>)✦Resource Pack
-- [Meow Society x FA](<https://www.curseforge.com/minecraft/texture-packs/meow-society-x-fresh-animations>)✦Resource Pack
+- [Pesky parrots x FA](<https://www.curseforge.com/minecraft/texture-packs/pesky-parrots-x-fresh-animations>)✦✓Resource Pack
+- [Meow Society x FA](<https://www.curseforge.com/minecraft/texture-packs/meow-society-x-fresh-animations>)✦✓Resource Pack
 - [Party pups x FA](<https://www.curseforge.com/minecraft/texture-packs/party-pups-x-fresh-animations>)✦Resource Pack
 - [Porkier pigs x FA](<https://www.curseforge.com/minecraft/texture-packs/porkier-pigs-x-fresh-animations>)✦Resource Pack
-- [Better zombies x FA](<https://www.curseforge.com/minecraft/texture-packs/better-zombies-x-fresh-animations>)✦Resource Pack
+- [Better zombies x FA](<https://www.curseforge.com/minecraft/texture-packs/better-zombies-x-fresh-animations>)✦✓Resource Pack
 - [Better skeletons x FA](<https://www.curseforge.com/minecraft/texture-packs/better-skeletons-x-fresh-animations>)✦Resource Pack
-- [Collective creepers x FA](<https://www.curseforge.com/minecraft/texture-packs/collective-creepers-x-fresh-animations>)✦Resource Pack
-- [Better enderman x FA](<https://www.curseforge.com/minecraft/texture-packs/better-endermen-x-fresh-animations>)✦Resource Pack
+- [Collective creepers x FA](<https://www.curseforge.com/minecraft/texture-packs/collective-creepers-x-fresh-animations>)✦✓Resource Pack
+- [Better enderman x FA](<https://www.curseforge.com/minecraft/texture-packs/better-endermen-x-fresh-animations>)✦✓Resource Pack
 - [Porkier piglins x FA](<https://www.curseforge.com/minecraft/texture-packs/porkier-piglins-x-fresh-animations>)✦Resource Pack
-- [Better illagers x FA](<https://www.curseforge.com/minecraft/texture-packs/better-illagers-x-fresh-animations>)✦Resource Pack
-- [Golem galore x FA](<https://www.curseforge.com/minecraft/texture-packs/golems-galore-x-fresh-animations>)✦Resource Pack
+- [Better illagers x FA](<https://www.curseforge.com/minecraft/texture-packs/better-illagers-x-fresh-animations>)✦✓Resource Pack
+- [Golem galore x FA](<https://www.curseforge.com/minecraft/texture-packs/golems-galore-x-fresh-animations>)✦✓Resource Pack
 - [Beefier Bovine x FA](<https://www.curseforge.com/minecraft/texture-packs/beefier-bovine-x-fresh-animations>)✦Resource Pack
 - [Cluckier Chickens x FA](<https://www.curseforge.com/minecraft/texture-packs/cluckier-chickens-x-fresh-animations>)✦Resource Pack
-- [Formidable Frogs x FA](<https://www.curseforge.com/minecraft/texture-packs/formidable-frogs-x-fresh-animations>)✦Resource Pack
-- [Amazing Axolotls x FA](<https://www.curseforge.com/minecraft/texture-packs/amazing-axolotls-x-fresh-animations>)✦Resource Pack
+- [Formidable Frogs x FA](<https://www.curseforge.com/minecraft/texture-packs/formidable-frogs-x-fresh-animations>)✦✓Resource Pack
+- [Amazing Axolotls x FA](<https://www.curseforge.com/minecraft/texture-packs/amazing-axolotls-x-fresh-animations>)✦✓Resource Pack
 - [Puffier Pandas](<https://www.curseforge.com/minecraft/texture-packs/puffier-pandas>)✦Resource Pack
 - [Better Squids](<https://www.curseforge.com/minecraft/texture-packs/better-squids>)✦Resource Pack
-- [Assorted Allays x FA](<https://modrinth.com/resourcepack/assorted-allays-x-fresh-animations>)✦Resource Pack
+- [Assorted Allays x FA](<https://modrinth.com/resourcepack/assorted-allays-x-fresh-animations>)✦✓Resource Pack
 ## Custom Item Textures 
 - [Fake fruits](<https://www.planetminecraft.com/texture-pack/fake-fruits/>)✦Resource Pack
 - [Fish Trophies](<https://www.planetminecraft.com/texture-pack/fish-trophies/>)✦✓Resource Pack
