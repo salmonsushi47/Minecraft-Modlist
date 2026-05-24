@@ -65,7 +65,7 @@ This List is available [Here](<https://github.com/salmonsushi47/Minecraft-Modlis
 - [Modern Fix](<https://modrinth.com/mod/modernfix>)✦1.21.4
 - [Model gap fix](<https://modrinth.com/mod/modelfix>)✦1.21.10 **not needed anymore**
 - [Map Distance Fix](<https://modrinth.com/mod/map-distance-fix>)✦✓26.1.2
-- [No splash Text](<https://modrinth.com/resourcepack/no-splashes-texts>)✦✓Resource Pack
+- [No splash Text](<https://modrinth.com/resourcepack/no-splashes-texts>)✦Resource Pack **not needed anymore**
 - [Disable custom world advice](<https://modrinth.com/mod/dcwa>)✦1.21.7
 - [DeepslateCutting](<https://modrinth.com/mod/deepslatecutting>)✦1.21.5
 
@@ -282,7 +282,7 @@ This List is available [Here](<https://github.com/salmonsushi47/Minecraft-Modlis
 - [Fire Rekindled](<https://modrinth.com/resourcepack/fire-rekindled/gallery>)✦✓Resource Pack ***includes feature of*** [Better explosion particles](<https://www.planetminecraft.com/texture-pack/better-explosion-particle/>)✦Resource Pack
 - [Combat Effects](<https://modrinth.com/mod/combateffects>)✦1.21.8 ***or*** [Damage Number Particles](<https://modrinth.com/mod/dnp>)✦✓1.21.11 ***or*** [Immersive Damage Indicators](<https://modrinth.com/mod/immersive-damage-indicators>)✦1.21.1
 - [Blood N Particles Mod](<https://modrinth.com/mod/blood-n-particles-mod>)✦1.21.6
-- [XP coins](<https://modrinth.com/resourcepack/xpcoins>)✦Resource Pack ***or*** [Fresh XP orbs](<https://modrinth.com/resourcepack/fresh-xp-orbs>)✦✓Resource Pack ***or*** [Star XP](<https://www.planetminecraft.com/texture-pack/star-xp/>)✦Resource Pack ***or*** [Amongus Expeience Orbs](<https://www.planetminecraft.com/texture-pack/amongus-experience-orbs/>)✦Resource Pack
+- [Star XP](<https://www.planetminecraft.com/texture-pack/star-xp/>)✦Resource Pack ***or*** [Amongus Expeience Orbs](<https://www.planetminecraft.com/texture-pack/amongus-experience-orbs/>)✦Resource Pack
 - [Particles +](<https://modrinth.com/resourcepack/particles+>)✦✓Resource Pack
 - [Pablo's better particles](<https://www.planetminecraft.com/texture-pack/pablo-s-better-particles/>)✦Resource Pack
 - [Mas Effects](<https://modrinth.com/mod/mas-effects>)✦✓1.21.10
@@ -646,6 +646,7 @@ Use **Kilt**
 - [Animated inventory DvD logo](<https://www.curseforge.com/minecraft/texture-packs/animated-inventory-dvd-logo>)
 - [Masher's moss overlay](<https://www.planetminecraft.com/texture-pack/moss-overlay/>)
 - [Visual Fish bucket](<https://www.curseforge.com/minecraft/texture-packs/visual-fish-buckets>)
+- [XP coins](<https://modrinth.com/resourcepack/xpcoins>)
 - Better crops 16x tall wheat
 - Spryzeen's Bushy warts
 - Warped root 3D 
