@@ -343,7 +343,7 @@ This List is available [Here](<https://github.com/salmonsushi47/Minecraft-Modlis
 - [Enchantment Glow](<https://modrinth.com/resourcepack/enchantment-glows>)✦Resource Pack ***or*** [Glowing Glints](<https://modrinth.com/resourcepack/glowing-glints>)✦✓Resource Pack
 - [Shiny armor trims by XXVI](<https://www.planetminecraft.com/texture-pack/xxvi-s-shiny-armor-trims/>)✦Resource Pack
 ### World Improvements
-- [Ambient environment](<https://modrinth.com/mod/ambient-environment>)✦✓26.1.2
+- [Ambient environment](<https://modrinth.com/mod/ambient-environment>)✦✓26.1.2 %% I encountered a rare crash because of this and particle rain mod %%
 - [Visual Effects+](<https://modrinth.com/resourcepack/visual-effects-plus>)✦Resource Pack
 - [Visual Snowy Leaves](<https://modrinth.com/mod/visual-snowy-leaves>)✦1.21.11 %% Crash on Loading into World if used with Chunks Fade In %%
 - [Better clouds](<https://modrinth.com/mod/better-clouds>)✦✓26.1.2 ***or*** [Story mode clouds](<https://modrinth.com/resourcepack/story-mode-clouds>)✦Resource Pack ***or*** [Gradient Clouds](<https://modrinth.com/resourcepack/gradient-clouds>)✦Resource Pack
