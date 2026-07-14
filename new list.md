@@ -339,6 +339,7 @@ This List is available [Here](<https://github.com/salmonsushi47/Minecraft-Modlis
 - [Tidal Waves](<https://modrinth.com/mod/tidal-waves>)✦1.21.1
 - [Fluid void fading](<https://modrinth.com/mod/fluidvoidfading>)✦✓1.21.11
 - [Interactive Foliage](<https://modrinth.com/mod/mc2-interactive-foliage>)✦✓26.1.2
+- [Grassier Grass](<https://modrinth.com/mod/grassier-grass>)✦26.2
 - [Shine](<https://modrinth.com/mod/shine>) %% makes better clouds not appear on older versions%%
 - [Vibrancy](<https://modrinth.com/mod/vibrancy>)✦1.21.11
 - [Blue Archive Halo](<https://modrinth.com/mod/blue-archive-halo>)✦✓1.21.11
